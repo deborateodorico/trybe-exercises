@@ -1,0 +1,31 @@
+h1{
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+
+#colors{
+    background-color: palevioletred;
+}
+
+.bestcolors{
+    background-color: purple;
+}
+
+p{
+    font-weight: 600px;
+    font-size: 3em;
+    font-style: italic;
+    line-height: 60px;
+    text-align: justify;
+
+}
+
+body{
+    font-size: 16px;
+}
+
+ul{
+    text-decoration: underline;
+    color: blueviolet;
+}
